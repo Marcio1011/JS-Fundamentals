@@ -16,3 +16,10 @@ console.log(age)
 //constants
 const occupation = "Engineer"
 console.log(occupation)
+
+//Data Types
+var middleName = "David" //String
+var height = 5.9 //Number
+var isMarried = false //Boolean
+var children = null //Null
+var address //Undefined
